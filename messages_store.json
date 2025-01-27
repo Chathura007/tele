@@ -1,0 +1,36 @@
+{
+  "new": [
+    {
+      "date": "2025-01-23 21:23:07",
+      "message": "credited by Rs. 5200.00 (LPAY Tfr @22:33 30/09/2024)",
+      "code": ""
+    }
+  ],
+  "submitted": [
+    {
+      "date": "2025-01-23 18:16:53",
+      "message": "credited by Rs. 949.00 (LPAY Tfr @10:20 14/10/2024)",
+      "code": "7555"
+    },
+    {
+      "date": "2025-01-23 18:16:29",
+      "message": "credited by Rs. 949.00 (LPAY Tfr @10:20 14/10/2024)",
+      "code": "755544"
+    },
+    {
+      "date": "2025-01-23 18:19:20",
+      "message": "credited by Rs. 949.00 (LPAY Tfr @10:20 14/10/2024)",
+      "code": "75554"
+    },
+    {
+      "date": "2025-01-23 19:11:49",
+      "message": "credited by Rs. 949.00 (LPAY Tfr @10:20 14/10/2024)",
+      "code": ""
+    },
+    {
+      "date": "2025-01-23 18:18:57",
+      "message": "credited by Rs. 949.00 (LPAY Tfr @10:20 14/10/2024)",
+      "code": ""
+    }
+  ]
+}
